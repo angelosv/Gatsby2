@@ -1,0 +1,13 @@
+* {margin:0;
+padding: 0;
+box-sizing: border-box;}
+
+:root{
+  --mainOrange: #C3c3c3;
+  --mainYellow: #d2aa5c;
+}
+body {
+  font-family: 'caveat', cursive;
+  color: black;
+  background: white;
+}
